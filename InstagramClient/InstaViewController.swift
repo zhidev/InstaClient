@@ -7,8 +7,9 @@
 //
 
 import UIKit
+import AFNetworking
 
-class ViewController: UIViewController {
+class InstaViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
